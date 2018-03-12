@@ -1,0 +1,43 @@
+It's your duty to give gifts to all the children and also to the poor. 
+Get all the gifts Saint Nicolas(santa claus) has to give everyone.
+Miss a maximum of a few gifts per level and then the game will end.
+Each level has a higher speed and Saint Nicolas asked a few friends if they could help him so watch out for more saints!
+Each gift has an ammount of points, the more points you have the bigger your highscore will  be!:)
+
+
+Gift Types:
+Gold Coin: 50 points
+Red Gift: 150 points
+Blue Gift: 250 points
+Green Gift: 400 points
+Gold Pot: 1000 points
+
+
+5 levels
+
+[Level 1]
+Gifts To Get: 20
+Gifts to Miss: 10
+
+[Level 2]
+Gifts To Get: 30
+Gifts to Miss: 7
+
+[Level 3]
+Gifts To Get: 50
+Gifts to Miss: 5
+
+[Level 4]
+Gifts To Get: 70
+Gifts to Miss: 5
+
+[Level 5]
+Gifts To Get: 100
+Gifts to Miss: 3
+
+After level 5,show a special screen!
+
+Congratulations, you have helped Saint Nicolas to reach a lot of children! 
+We wish you a Merry Christmas and a happy new year!
+
+If lost, show a insert high score screen..
